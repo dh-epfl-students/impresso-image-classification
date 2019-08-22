@@ -1,5 +1,8 @@
 # Classification of Impresso Image database
 
+- **students**: Edoardo Tarek Hölzl (Data Science) & Lucas Antoine Gauchoux (Data Science)
+- **supervisors**: M. Ehrmann, S. Ares Oliveira and Prof. F. Kaplan
+
 This project aims at building a pipeline that would allow the classification of the Impresso database of newspaper images.
 The research and development has been done by Edoardo Tarek Hölzl and Lucas Gauchoux
 
